@@ -14,7 +14,7 @@ Using keycodes is easy, include keycodes.js to your page, and do:
   * Keycode.getCode('tab'); // returns 9
   * Keycode.getCodes(['L','O','L']); // returns [76, 79, 76]
 
-Aside from the alphabet and numbers, the following special keys are supported:
+Aside from the alphabet, numbers and punctuation the following special keys are supported:
   * 'backspace'
   * 'tab'
   * 'enter'
