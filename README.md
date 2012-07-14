@@ -36,6 +36,6 @@ Aside from the alphabet, numbers and punctuation the following special keys are 
   * 'delete'
   * 'num_lock'
   * 'scroll_lock'
-  * Add 'numpad_' in front of the numeric pad key to match it (e.g. 'numpad_9', 'numpad_+')
+  * Add 'numpad\_' in front of the numeric pad key to match it (e.g. 'numpad\_9', 'numpad\_+')
 
 Don't hesitate to fork this project if you want to modify or add features to this object.
